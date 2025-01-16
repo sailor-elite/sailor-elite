@@ -14,14 +14,14 @@
   - **Programming / Electronic Design and PCB Drawing:**
     - [SMPS-19V-3A](https://github.com/sailor-elite/SMPS-19V-3A)  
     - [On/Off Switch ASG](https://github.com/sailor-elite/on_off_switch_ASG)  
-    - [GPS Tracker ESP32](https://github.com/sailor-elite/GPS_Tracker_ESP32)  
+    - [GPS Tracker ESP32](https://github.com/sailor-elite/GPS_Tracker_ESP32) (In production) 
 
   - **Electronics Prototyping:**
     - [Automatic Stop And Go Off Switch](https://github.com/sailor-elite/Automatic_Stop_And_Go_Off_Switch)  
     - [8-Segment Display with Arduino](https://github.com/sailor-elite/8-Segment-Disp-Arduino)  
 
   - **Python Scripts and Automation:**
-    - [JobScraper with SMTP and DB Integration](https://github.com/sailor-elite/JobScraper-SMTP-DB-integration)  
+    - [JobScraper with SMTP and DB Integration](https://github.com/sailor-elite/JobScraper-SMTP-DB-integration) (In production) 
     - [Foe Bot](https://github.com/sailor-elite/Foe_bot)  
     - [Łomża Job Offers Web Scraper](https://github.com/sailor-elite/Lomza_job_offers_web_scrapper)  
 
