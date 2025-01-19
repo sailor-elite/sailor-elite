@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **OpenCV and Linux**
 
-- 🎓 I hold a bachelor's degree in Electrical Engineering.
+- 🎓 I hold an Engineer's degree in Electrical Engineering.
 
 - 🎓 I hold a master's degree in Computer Science.
 
