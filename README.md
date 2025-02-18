@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **OpenCV and Linux**
 
-- 🎓 I hold an Engineer's degree in Electrical Engineering.
+- 🎓  I hold a Bachelor of Engineering degree in Electrical Engineering.
 
 - 🎓 I hold a master's degree in Computer Science.
 
@@ -21,6 +21,7 @@
     - [8-Segment Display with Arduino](https://github.com/sailor-elite/8-Segment-Disp-Arduino)  
 
   - **Python Scripts and Automation:**
+    - [Comparison of Five Algorithms Used in Stereovision and Implementation of a Hybrid-Based Algorithmic Solution](https://github.com/sailor-elite/Stereovision_AlgorithmComparison)
     - [JobScraper with SMTP and DB Integration](https://github.com/sailor-elite/JobScraper-SMTP-DB-integration) (In production) 
     - [Foe Bot](https://github.com/sailor-elite/Foe_bot)  
     - [Łomża Job Offers Web Scraper](https://github.com/sailor-elite/Lomza_job_offers_web_scrapper)  
