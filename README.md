@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jakub</h1>
-<h3 align="center">Embedded systems developer and electrical engineer with Python skills. I specialize in designing electronic systems, with a strong foundation in C/C++, Python programming, embedded systems, and IoT solutions.</h3>
+<h3 align="center">Embedded systems developer and electrical engineer with Python skills. I specialize in designing electronic systems, with a foundation in C/C++, Python programming, embedded systems, and IoT solutions.</h3>
 
 - 🌱 I’m currently learning **OpenCV and Linux**
 
