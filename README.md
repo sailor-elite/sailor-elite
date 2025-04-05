@@ -75,9 +75,17 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
+    <a href="https://www.kicad.org/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/3374914?s=200&v=4" alt="kicad" width="40" height="40"/>
+  </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
+
+<a href="https://appinventor.mit.edu/" target="_blank" rel="noreferrer">
+  <img src="https://appinventor.mit.edu/explore/sites/explore.appinventor.mit.edu/files/ai-bee-logo.png" alt="MIT App Inventor" width="40" height="40"/>
+ </a>
+  
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
@@ -99,8 +107,6 @@
   <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank" rel="noreferrer">
     <img src="https://github.com/user-attachments/assets/5acc4ec5-3cd9-4229-acb7-276ab8e38d1d" alt="stm32" width="40" height="40"/>
   </a>
-  <a href="https://www.kicad.org/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/3374914?s=200&v=4" alt="kicad" width="40" height="40"/>
-  </a>
+
 </p>
 
