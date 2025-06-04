@@ -72,9 +72,6 @@
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
     <a href="https://www.kicad.org/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/3374914?s=200&v=4" alt="kicad" width="40" height="40"/>
   </a>
