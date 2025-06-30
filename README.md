@@ -9,7 +9,6 @@
 
 <h3 align="left">My Projects:</h3>
 
-- **Technologies categorized:**
 
   - **Programming / Electronic Design and PCB Drawing:**
     - [SMPS-19V-3A](https://github.com/sailor-elite/SMPS-19V-3A)  
